@@ -1,0 +1,7 @@
+name: DraimCoins
+version: '${version}'
+main: me.draimgoose.draimcoins.DCoins
+api-version: 1.17
+authors: [ DraimGooSe ]
+description: Система койнов для проектов от DraimStudio
+website: https://draimcido.ru
